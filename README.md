@@ -1,6 +1,6 @@
 #LocalStorage&SessionStorage
 
-@(我的第一个笔记本)[SessionStorage封装, 实例, 使用方法]
+@[SessionStorage封装, 实例, 使用方法]
 
 **Storage.js**：是一款集 LocalStorage&SessionStorage于一体的封装包，下面举几个例子。
  
